@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Iphone",
+      "cost": "$899.99",
+      "image": "src/assets/Images/iphone.png",
+      "description": "The iPhone is a series of smartphones made by Apple Inc since 2007. It is a mobile phone, meaning that it makes calls and sends text messages without wires.",
+      "thumbnails": [
+        {
+          "image": "/src/assets/Images/iphone1.png",
+          "alt": "Iphone Image1"
+        },
+        {
+          "image": "/src/assets/Images/iphone2.png",
+          "alt": "Iphone Image2"
+        },
+        {
+          "image": "/src/assets/Images/iphone3.png",
+          "alt": "Iphone Image3"
+        }
+      ]
+    }
+  ]
+  
+
+  
