@@ -1,25 +1,30 @@
 [
-    {
-      "name": "Iphone",
-      "cost": "$899.99",
-      "image": "src/assets/Images/iphone.png",
-      "description": "The iPhone is a series of smartphones made by Apple Inc since 2007. It is a mobile phone, meaning that it makes calls and sends text messages without wires.",
-      "thumbnails": [
-        {
-          "image": "/src/assets/Images/iphone1.png",
-          "alt": "Iphone Image1"
-        },
-        {
-          "image": "/src/assets/Images/iphone2.png",
-          "alt": "Iphone Image2"
-        },
-        {
-          "image": "/src/assets/Images/iphone3.png",
-          "alt": "Iphone Image3"
-        }
-      ]
-    }
-  ]
-  
-
-  
+  {
+    "name": "Iphone",
+    "cost": 899.99,
+    "image": "src/assets/Images/iphone.png",
+    "description": "The iPhone is a series of smartphones made by Apple Inc since 2007. It is a mobile phone, meaning that it makes calls and sends text messages without wires.",
+    "thumbnails": [
+      { "image": "/src/assets/Images/iphone1.png", "alt": "Iphone Image1" },
+      { "image": "/src/assets/Images/iphone2.png", "alt": "Iphone Image2" },
+      { "image": "/src/assets/Images/iphone3.png", "alt": "Iphone Image3" }
+    ],
+    "currentImage": "src/assets/Images/iphone.png"
+  },
+  {
+    "name": "Samsung",
+    "cost": 799.99,
+    "image": "src/assets/Images/samsung.png",
+    "description": "Samsung Galaxy is a line of Android smartphones and smart devices. Learn about the various Galaxy products, their key features and release histories.",
+    "thumbnails": [],
+    "currentImage": "src/assets/Images/samsung.png"
+  },
+  {
+    "name": "Huawei",
+    "cost": 499.99,
+    "image": "src/assets/Images/huawei.png",
+    "description": "Huawei phones often feature large, vibrant displays, long-lasting batteries, and proprietary software tweaks on top of Android, called EMUI.",
+    "thumbnails": [],
+    "currentImage": "src/assets/Images/huawei.png"
+  }
+]
